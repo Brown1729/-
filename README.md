@@ -1,7 +1,7 @@
 # Handwritten Digits Training Program
 ## Introduction
 + Training code:
-    + [text]trainingProgram.cpp
+    + trainingProgram.cpp
 + Requirements:
     + Eigen
     + MNIST dataset files:
